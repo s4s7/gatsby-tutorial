@@ -1,3 +1,7 @@
+## Gatsby-tutorial site is deployed and hosted on Netlify
+https://app.netlify.com/sites/naughty-turing-f45328/overview  
+  
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
